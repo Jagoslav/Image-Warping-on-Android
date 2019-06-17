@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImageWarper</string>
+    <string name="camera_permission_not_granted">Camera permission not granted</string>
+    <string name="storage_access_not_granted">Storage access not granted</string>
+    <string name="photo_not_taken">Photo not taken</string>
+    <string name="unable_to_open_image">Unable to open image</string>
+    <string name="image_not_selected">Image not selected</string>
+    <string name="select_method">Select Method</string>
+    <string name="unable_to_save_file">Unable to save file</string>
+    <string-array name="warping_methods">
+        <item>No Action</item>
+        <item>Magnify</item>
+        <item>Shrink</item>
+        <item>Swirl</item>
+        <item>Pincushion Distortion</item>
+    </string-array>
+</resources>
